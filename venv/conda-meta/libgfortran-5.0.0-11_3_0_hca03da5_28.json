@@ -1,0 +1,31 @@
+{
+  "name": "libgfortran",
+  "version": "5.0.0",
+  "build": "11_3_0_hca03da5_28",
+  "build_number": 28,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "libgfortran-5.0.0-11_3_0_hca03da5_28.conda",
+  "md5": "c5e86fc4ec38d0a560c08846544cc15c",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/libgfortran-5.0.0-11_3_0_hca03da5_28.conda",
+  "sha256": "93098a70e4861a1652542f78dc68cfb3f5809c010fc657c8c38833bfe2347e19",
+  "depends": [
+    "libgfortran5"
+  ],
+  "constrains": [],
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "timestamp": 1665499021000,
+  "size": 145512,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/Users/arjunraghav/miniconda3/pkgs/libgfortran-5.0.0-11_3_0_hca03da5_28.conda",
+  "extracted_package_dir": "/Users/arjunraghav/miniconda3/pkgs/libgfortran-5.0.0-11_3_0_hca03da5_28",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/Users/arjunraghav/miniconda3/pkgs/libgfortran-5.0.0-11_3_0_hca03da5_28",
+    "type": 1
+  }
+}
